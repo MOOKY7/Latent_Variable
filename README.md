@@ -1,2 +1,2 @@
 # Latent_Variable
-This is the github for Latent Variable Approach of harmonizing the multi institutional gene sequencing data.
+This is the github for Latent Variable Approach.
